@@ -1,0 +1,24 @@
+{
+  "name": "motley-templ",
+  "version": "1.0.0",
+  "description": "Templ (handlebars temple renderer) adapter for Motley",
+  "main": "_codemap",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/carlos8f/motley-templ.git"
+  },
+  "homepage": "https://s8f.org/motley.html",
+  "keywords": [
+    "templ",
+    "handlebars",
+    "motley"
+  ],
+  "author": "Carlos Rodriguez <carlos@s8f.org> (http://s8f.org/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlos8f/motley-templ/issues"
+  },
+  "dependencies": {
+    "templ": "^1.4.3"
+  }
+}
