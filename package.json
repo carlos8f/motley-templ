@@ -19,6 +19,7 @@
     "url": "https://github.com/carlos8f/motley-templ/issues"
   },
   "dependencies": {
+    "handlebars": "^4.0.5",
     "templ": "^1.4.3"
   }
 }
