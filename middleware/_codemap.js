@@ -1,8 +1,8 @@
 module.exports = {
   _ns: 'motley',
-  _folder: 'middleware',
 
-  'templ': require('./templ'),
-  'handlers[-60]': '#middleware.templ',
-  'templ_instance': null
+  'middleware.templ': require('./templ'),
+  'middleware.closeTempl': require('./closeTempl'),
+  'middleware[-60]': '#middleware.templ',
+  'middleware.templ_instance': null
 }
