@@ -1,6 +1,6 @@
 {
   "name": "motley-templ",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Templ (handlebars temple renderer) adapter for Motley",
   "main": "_codemap",
   "repository": {
